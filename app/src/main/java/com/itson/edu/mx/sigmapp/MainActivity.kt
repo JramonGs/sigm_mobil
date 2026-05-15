@@ -33,7 +33,7 @@ class MainActivity : AppCompatActivity() {
             try {
                 // 1. Simulamos el Login (Cualquier usuario registrado en la BD)
                 val loginResponse = RetrofitClient.apiService.login(
-                    LoginRequest("gerente@miempresa.com", "clave123")
+                    LoginRequest("gerente@mitienda.com", "clave123")
                 )
 
                 // Guardamos el token en nuestro cliente para las siguientes peticiones
