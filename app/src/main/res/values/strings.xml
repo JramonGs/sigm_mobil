@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">SigmApp</string>
+    <string name="resumen_inventario">Resumen de Inventario Bajo</string>
+    <string name="ventas_recientes">Ventas Recientes</string>
+    <string name="stock_unidades">Stock (Unidades)</string>
+    <string name="total_ventas">Total de Ventas ($)</string>
 </resources>
